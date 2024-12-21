@@ -1,1 +1,1 @@
-tags=eniocarboni/docker-rockylinux-systemd:latest,eniocarboni/docker-rockylinux-systemd:9
+tags=dvershinin/systemd-base:latest,systemd-base:el9
