@@ -1,6 +1,6 @@
 # Rocky Linux 9 Docker Image with systemd
 
-[![Build](https://github.com/eniocarboni/docker-rockylinux-systemd/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/eniocarboni/docker-rockylinux-systemd/actions/workflows/build.yml) [![GPL License](https://img.shields.io/badge/license-GPL-blue.svg)](https://www.gnu.org/licenses/) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/EnioCarboni)
+[![Build](https://github.com/eniocarboni/docker-rockylinux-systemd/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/eniocarboni/docker-rockylinux-systemd/actions/workflows/build.yml) [![GPL License](https://img.shields.io/badge/license-GPL-blue.svg)](https://www.gnu.org/licenses/)
 
 Rocky Linux 9 Docker container with systemd, useful for tests with `ansible` especially with `molecule`
 
